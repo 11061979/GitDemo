@@ -15,7 +15,7 @@ public class Streem {
 		
 		System.out.println("77777");
 
-		System.out.println("888888");
+		System.out.println("88888");
 
 
 
